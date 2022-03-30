@@ -107,7 +107,7 @@ const Header = () => {
           <MenuItem onClick={() => scrollTo('team')}>Team</MenuItem>
           <MenuItem onClick={() => scrollTo('faq')}>FAQ</MenuItem>
         </Menu>
-          <Button link={'https://thrashhoodies.netlify.app/'} text='Get A Hoodie' />
+          <Button link={'https://thrashhoodies.netlify.app/'} text='Mint A Hoodie' />
       </NavBar>
     </Section>
   )
