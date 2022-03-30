@@ -180,11 +180,11 @@ const Guideline = () => {
         </SvgContainer>
         <Items>
           <Item>&nbsp;</Item>
-          <GuidelineItem addToRefs={addToRefs} title='Grand Opening' subText='Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat.' />
-          <GuidelineItem addToRefs={addToRefs} title='Great Benefits' subText='Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat.' />
-          <GuidelineItem addToRefs={addToRefs} title='Early Access' subText='Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat.' />
-          <GuidelineItem addToRefs={addToRefs} title='New Merch' subText='Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat.' />
-          <GuidelineItem addToRefs={addToRefs} title='Holders Ranking' subText='Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat.' />
+          <GuidelineItem addToRefs={addToRefs} title='Origin' subText='ThRAsh NFT was developed by three undergraduate students as their personal project.' />
+          <GuidelineItem addToRefs={addToRefs} title='ThRAsh Nft' subText='ThRAsh NFTs are unique and awesome NFTs that were created based on hoodies.' />
+          <GuidelineItem addToRefs={addToRefs} title='Upcoming Features' subText='Staking your ThRAsh hoodie and ThRAsh coin are two of the features we aim to add to the ThRAshverse in the future.' />
+          <GuidelineItem addToRefs={addToRefs} title='Our Goal' subText='We hope to see our ThRAsh hoodies in the metaverse platform in the near future.' />
+          <GuidelineItem addToRefs={addToRefs} title='Special Events' subText='We have also planned to host events (physical and virtual) for our NFT holders, so stay tuned for that as well' />
         </Items>
       </Container>
     </Section>
