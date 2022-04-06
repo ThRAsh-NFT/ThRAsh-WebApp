@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import GlobalStyles from "../styles/GlobalStyles"
 import { ThemeProvider } from 'styled-components'
 import { light } from "../styles/Themes"
@@ -14,11 +14,14 @@ import Faq from '../components/sections/Faq'
 import Footer from '../components/Footer'
 import ScrollToTop from "../components/ScrollToTop";
 
+
 const Main = () => {
+
   return (
+
     <div>
-    <GlobalStyles />
-      <ThemeProvider theme = {light}> 
+      <GlobalStyles />
+      <ThemeProvider theme={light}>
         <Header />
         <Home />
         <About />
@@ -30,6 +33,7 @@ const Main = () => {
         <ScrollToTop />
       </ThemeProvider>
     </div>
+
   )
 }
 
