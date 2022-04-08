@@ -84,7 +84,7 @@ const About = () => {
           </SubTextLight>
           <ButtonContainer>
           <ThemeProvider theme={dark}>
-            <Button link={'https://discord.gg/wkTKKWAc'} text={'JOIN OUR DISCORD'} /> 
+            <Button link={'https://testnets.opensea.io/collection/thrash-hoodies-v2'} text={'VIEW OUR NFTS'} /> 
           </ThemeProvider>
           </ButtonContainer>
         </Box>

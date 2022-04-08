@@ -79,10 +79,10 @@ const Banner = () => {
             <img src={img6} alt='NFT' />
         </ImgContainer>
 
-        <Title> Join The<br />Thrash hood </Title>
+        <Title> Join The<br />Thrash Hood </Title>
         <BtnContainer>
             <ThemeProvider theme={dark}>
-                <Button link={'https://discord.gg/wkTKKWAc'} text='Join Now' />
+                <Button link={'https://discord.gg/wkTKKWAc'} text='JOIN OUR DISCORD' />
             </ThemeProvider>
         </BtnContainer>
     </Section>

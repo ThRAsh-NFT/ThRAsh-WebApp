@@ -132,7 +132,7 @@ const Footer = () => {
       </Container>
       <Bottom>
         <span>
-          &copy; {new Date().getFullYear()} ThRAsh NFT Hood. All rights reserved.
+          &copy; {new Date().getFullYear()} ThRAsh NFT. All rights reserved.
         </span>
       </Bottom>
     </Section>
