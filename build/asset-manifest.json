@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.f5064df6.css",
-    "main.js": "/static/js/main.a0a0ff10.js",
+    "main.js": "/static/js/main.56831fd4.js",
     "static/media/27.png": "/static/media/27.2dca25929250652452f2.png",
     "static/media/47.png": "/static/media/47.ad442a4a40879eb8c92c.png",
     "static/media/NftVideo.mp4": "/static/media/NftVideo.b945952e1dfc6668098a.mp4",
     "static/media/50.png": "/static/media/50.bc998d7418846aa56228.png",
+    "static/media/35.png": "/static/media/35.eb7236deea5c9e0f3db1.png",
     "static/media/42.png": "/static/media/42.2b2ae90e88d3f5dd8d6a.png",
     "static/media/25.png": "/static/media/25.2e5ff7d9fd3d89747eed.png",
     "static/media/44.png": "/static/media/44.7d6ed715355b74939cbf.png",
@@ -26,7 +27,6 @@
     "static/media/19.png": "/static/media/19.b87159ed6df659d26d25.png",
     "static/media/31.png": "/static/media/31.48373edac979a63859bc.png",
     "static/media/16.png": "/static/media/16.234b0c0450cf3eeaf63c.png",
-    "static/media/35.png": "/static/media/35.5794372fb307d8ac94b5.png",
     "static/media/37.png": "/static/media/37.6a616848017ef360053e.png",
     "static/media/33.png": "/static/media/33.2e8fc0e419d5d985db87.png",
     "static/media/30.png": "/static/media/30.e3c52a8a510080e0a9b0.png",
@@ -67,10 +67,10 @@
     "static/media/Arrow.svg": "/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
     "index.html": "/index.html",
     "main.f5064df6.css.map": "/static/css/main.f5064df6.css.map",
-    "main.a0a0ff10.js.map": "/static/js/main.a0a0ff10.js.map"
+    "main.56831fd4.js.map": "/static/js/main.56831fd4.js.map"
   },
   "entrypoints": [
     "static/css/main.f5064df6.css",
-    "static/js/main.a0a0ff10.js"
+    "static/js/main.56831fd4.js"
   ]
 }
