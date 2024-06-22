@@ -192,13 +192,13 @@ const Row2Ref = useRef(null);
         <NftItem img={img9} number={53} price={0.6} passRef={Row1Ref} />
         <NftItem img={img10} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img11} number={10} price={0.6} passRef={Row1Ref} />
-        <NftItem img={img12} number={10} price={0.5} passRef={Row1Ref} />
+        <NftItem img={img12} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img13} number={10} price={0.6} passRef={Row1Ref} />
-        <NftItem img={img14} number={10} price={0.5} passRef={Row1Ref} />
+        <NftItem img={img14} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img15} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img16} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img17} number={10} price={0.6} passRef={Row1Ref} />
-        <NftItem img={img18} number={10} price={0.5} passRef={Row1Ref} />
+        <NftItem img={img18} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img19} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img20} number={10} price={0.6} passRef={Row1Ref} />
         <NftItem img={img21} number={99} price={0.5} passRef={Row1Ref} />
@@ -217,11 +217,11 @@ const Row2Ref = useRef(null);
         <NftItem img={img32} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img33} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img34} number={10} price={0.6} passRef={Row2Ref} />
-        <NftItem img={img35} number={10} price={0.5} passRef={Row2Ref} />
+        <NftItem img={img35} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img36} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img37} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img38} number={10} price={0.6} passRef={Row2Ref} />
-        <NftItem img={img39} number={10} price={0.5} passRef={Row2Ref} />
+        <NftItem img={img39} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img40} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img41} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img42} number={10} price={0.6} passRef={Row2Ref} />
@@ -232,7 +232,7 @@ const Row2Ref = useRef(null);
         <NftItem img={img47} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img48} number={10} price={0.6} passRef={Row2Ref} />
         <NftItem img={img49} number={10} price={0.6} passRef={Row2Ref} />
-        <NftItem img={img50} number={10} price={0.5} passRef={Row2Ref} />
+        <NftItem img={img50} number={10} price={0.6} passRef={Row2Ref} />
 
       </Row>
     </Section>
