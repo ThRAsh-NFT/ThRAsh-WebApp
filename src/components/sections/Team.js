@@ -117,8 +117,8 @@ const Team = () => {
       <Container>
         <MemberComponent img={img4} name={'Aslam'} position={'Mentor and Blockchain Expert'} />
         <MemberComponent img={img2} name={'Rinoza'} position={'NFT Expert and Designer'} />
-        <MemberComponent img={img3} name={'Ashwinth'} position={'Frontend And Backend Techie'} />
-        <MemberComponent img={img1} name={'Thashin'} position={'Designer and Backend Techie'} />     
+        <MemberComponent img={img3} name={'Ashwinth'} position={'Designer And Backend Techie'} />
+        <MemberComponent img={img1} name={'Thashin'} position={'Frontend and Backend Techie'} />     
       </Container>
     </Section>
   )
